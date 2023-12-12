@@ -1,6 +1,7 @@
 # restaurants-with-sqlalchemy
 # SQLAlchemy-Code-Challenge-Restaurants
-
+## Author
+Ian Were
 
 ## Introduction
 
